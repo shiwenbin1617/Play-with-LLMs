@@ -1,0 +1,8 @@
+transformers~=4.44.0
+llama-cpp-python
+vllm
+llama-index
+openai
+torch~=2.4.0
+bitsandbytes~=0.39.1
+peft~=0.12.0
